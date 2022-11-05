@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/touchy/examplesite/"
-title = "Touchy Hugo | Minimal Blog Theme"
-theme = "touchy-hugo"
+baseURL = "https://neilr-linux.com"
+title = "Neilr-linux | Minimal Blog Theme"
+theme = "Neilr-linux"
 # post pagination
 paginate = "3"
 # post excerpt
